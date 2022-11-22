@@ -1,0 +1,30 @@
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.exe
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.deps.json
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.runtimeconfig.json
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.dll
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.pdb
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.csproj.AssemblyReference.cache
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.AssemblyInfoInputs.cache
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.AssemblyInfo.cs
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.csproj.CoreCompileInputs.cache
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.dll
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\refint\tesdelete.dll
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.pdb
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.genruntimeconfig.cache
+C:\Users\h_kad\source\repos\tesdelete\tesdelete\obj\Debug\net7.0\ref\tesdelete.dll
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.exe
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.deps.json
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.runtimeconfig.json
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.dll
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\bin\Debug\net7.0\tesdelete.pdb
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.csproj.AssemblyReference.cache
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.AssemblyInfoInputs.cache
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.AssemblyInfo.cs
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.csproj.CoreCompileInputs.cache
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.dll
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\refint\tesdelete.dll
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.pdb
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\tesdelete.genruntimeconfig.cache
+C:\Users\11305274\Desktop\Nieuwe map\tesdelete\tesdelete\obj\Debug\net7.0\ref\tesdelete.dll
